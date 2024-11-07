@@ -1,1 +1,545 @@
-const _0x7827bc=_0x218c;function _0x2c4c(){const _0x14dfd6=['\x0aitem1.X-ABLabel:Mobile\x0aEND:VCARD','--pairing-code','「\x20Group\x20Settings\x20Change\x20」\x0a\x0a*Group\x20name\x20has\x20been\x20changed\x20to*\x0a\x0a*','../src/','fromBuffer','loadDatabase','node-cache','161586aHysgQ','\x0a┗▣\x20','withoutContact','base64','contacts.update','greenBright','trim','Loading,please\x20wait!...','bold','connectionLost','𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐁𝐨𝐭\x20𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝✓','length','../Xploader.js','ephemeralMessage','\x0a┃\x0a┃𝐓𝐈𝐌𝐄\x20:\x20\x0a┃','mtype','mime','promises','log','Value\x20not\x20found','Connection\x20Closed','mimetype','\x20\x20\x20\x0aThis\x20is:\x0a\x0a\x0a┏━┓┏━┓┃┃┃┓┃┃┃┃┃┃┃┃┃┏┓┃┃┃┃┃\x0a┗┓┗┛┏┛┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃\x0a┃┗┓┏┛┃━━┓┃┃━━┓━━┓┃━┛┃━━┓━┓\x0a┃┏┛┗┓┃┏┓┃┃┃┏┓┃┃┓┃┃┏┓┃┏┓┃┏┛\x0a┏┛┏┓┗┓┗┛┃┗┓┗┛┃┗┛┗┓┗┛┃┃━┫┃┃\x0a┗━┛┗━┛┏━┛━┛━━┛━━━┛━━┛━━┛┛┃\x0a┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃\x0a┃┃┃┃┃┃┛┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃\x0a\x0a\x0a┏━━┓┃┃┃┃┏┓┃\x0a┃┏┓┃┃┃┃┃┛┗┓\x0a┃┗┛┗┓━━┓┓┏┛\x0a┃┏━┓┃┏┓┃┃┃┃\x0a┃┗━┛┃┗┛┃┃┗┓\x0a┗━━━┛━━┛┗━┛\x0a┃┃┃┃┃┃┃┃┃┃┃\x0a┃┃┃┃┃┃┃┃┃┃┃\x0a\x0a\x0a','close','output','getFile','desc','connectionClosed','groupMetadata','downloadAndSaveMediaMessage','group-participants.update','\x0a┃\x20\x20\x0a┃𝐆𝐑𝐎𝐔𝐏:\x0a┃','requestPairingCode','from','Bad\x20Session\x20File,\x20Please\x20Delete\x20Session\x20and\x20Scan\x20Again','msg','connection','readFileSync','creds.update','isBuffer','notify','toString','image','format','BAE5','map','Firefox','settings','decodeJid','block','messages','string','bgBlack','142371OFPGVj','./lib/exif','participants','fromMe','remove','application/octet-stream','../index.js','40593ppDRgO','\x20Has\x20been\x20made\x20an\x20admin\x20in\x20this\x20group!','downloadMediaMessage','viewOnceMessage','loggedOut','\x20]\x0a□\x20Total\x20commands\x20=\x20[\x20519\x20]\x0a▣\x20Bot\x20version\x20=\x20[\x20','alloc','store','B6Hk3829WHYChdpqnuz7bL','3636mlkOEP','author','status','endsWith','concat','getNumber','contacts','\x20]\x0a□\x0a▣\x20*`WHATSAPP\x20GROUP`*:\x0a□\x20https://chat.whatsapp.com/B6Hk3829WHYChdpqnuz7bL\x0a▣\x0a□\x20*`WHATSAPP\x20CHANNEL`*:\x0a▣\x20https://whatsapp.com/channel/0029VamSWUx77qVNJDy1Jf11\x0a□\x0a▣\x20©Tylor\x0a□\x20@𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐁𝐨𝐭\x0a▣\x20\x0a□\x20\x20\x20','groups.update','./src/data/role/owner.json','「\x20Group\x20Settings\x20Change\x20」\x0a\x0aThe\x20group\x20has\x20been\x20opened\x20by\x20admin,\x20Now\x20participants\x20can\x20send\x20messages\x20!','0@s.whatsapp.net','awesome-phonenumber','receivedPendingNotifications','Restart\x20Required,\x20Restarting...','promote','public','file-type','HH:mm:ss','replace','error','./lib/loader','asLocation','split','BEGIN:VCARD\x0aVERSION:3.0\x0aN:','write','uncaughtException','updateBlockStatus','asSticker','serializeM','readMessages','sendPoll','includes','unlinkSync','international','┏▣\x20◊\x20`𝗫𝗣𝗟𝗢𝗔𝗗𝗘𝗥\x20𝗕𝗢𝗧`\x20◊\x0a□\x20Xploader\x20has\x20been\x20connected\x20successfully✓\x0a▣\x20Bot\x20prefix\x20=\x20[\x20','64xCJjZW','Hello\x20there!','@whiskeysockets/baileys','moment-timezone','messages.upsert','test','connection.update','key','https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60','relayMessage','\x20calls\x20at\x20the\x20moment.\x20Sorry\x20@','sendTextWithMentions','timedOut','red','PHOTO','yargs/yargs','15323pwDhwl','rate-overlimit','writeFileSync','Xeon','DD/MM/YYYY','groupevent','packname','chain','document','「\x20Group\x20Settings\x20Change\x20」\x0a\x0a*Group\x20description\x20has\x20been\x20changed\x20to*\x0a\x0a','src/database.json','keys','[\x20CHANGE\x20]','./lib/myfunc','conversation','getName','readline','statusCode','READ','𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐁𝐨𝐭\x20𝐏𝐚𝐢𝐫𝐜𝐨𝐝𝐞:\x20','remoteJid','./lib/lowdb','argv','./Xploader.js','Connection\x20Lost\x20from\x20Server,\x20reconnecting...','offer','Connection\x20Replaced,\x20Another\x20New\x20Session\x20Opened,\x20Please\x20Close\x20Current\x20Session\x20First','path','@g.us','Updated','windows','1656936VWdyIT','\x20Has\x20been\x20demoted\x20as\x20an\x20admin\x20in\x20this\x20group!','「\x20Group\x20Settings\x20Change\x20」\x0a\x0aGroup\x20has\x20been\x20closed\x20by\x20admin,\x20Now\x20only\x20admins\x20can\x20send\x20messages\x20!','white','sendVideoAsSticker','ext','*My\x20owner\x20can\x27t\x20receive\x20','badSession','registered','readViewOnce','name','filename','𝐍𝐮𝐦𝐛𝐞𝐫\x20𝐭𝐨\x20𝐛𝐞\x20𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝\x20𝐭𝐨\x20𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐁𝐨𝐭?\x0a𝐄𝐱𝐚𝐦𝐩𝐥𝐞\x20254796180105\x20:-\x20','black','@hapi/boom','audio/ogg;\x20codecs=opus','existsSync','action','video','Error\x20in\x20Connection.update\x20','authState','sendImageAsSticker','creds','10JfOtew','asVideo','match','conflict','dddd','2UwUDTA','Connection\x20TimedOut,\x20Reconnecting...','gray','magenta','./lib/color','status@broadcast','sendContact','then','parse','contextInfo','76368JEzJeW','asImage','sendMessage','groupAcceptInvite','open','\x0a┗▣','announce','default','startsWith','subject','botname','green','writeFile','already-exists','restrict','DATABASE','@s.whatsapp.net','server','\x0a┃\x20\x20\x0a┃𝐌𝐄𝐌𝐁𝐄𝐑𝐒;\x0a┃','bind','message','yellow','135637vDiGBU','\x0aitem1.TEL;waid=','user','isGroup','sticker','asDocument','exitProcess','sendText','./Xploader','add','chalk','now','true','loadMessage','Device\x20Logged\x20Out,\x20Please\x20Delete\x20Session\x20and\x20Scan\x20Again.','data','connecting','ignore','floor','viewOnce','10tCiOnB','welcome','https://i.ibb.co/RBx5SQC/avatar-group-large-v2.png?q=60','bgGreen','type','verifiedName','antiswview','--mobile','json','parseMention','not-authorized','child','\x0aFN:','\x20Contact'];_0x2c4c=function(){return _0x14dfd6;};return _0x2c4c();}(function(_0x297ae1,_0x213238){const _0x31e9a2=_0x218c,_0x233a52=_0x297ae1();while(!![]){try{const _0x178dc3=-parseInt(_0x31e9a2(0xa8))/0x1*(-parseInt(_0x31e9a2(0x88))/0x2)+parseInt(_0x31e9a2(0xd1))/0x3+-parseInt(_0x31e9a2(0x92))/0x4*(-parseInt(_0x31e9a2(0xbc))/0x5)+parseInt(_0x31e9a2(0x169))/0x6+parseInt(_0x31e9a2(0x10d))/0x7*(parseInt(_0x31e9a2(0x13a))/0x8)+parseInt(_0x31e9a2(0x106))/0x9*(parseInt(_0x31e9a2(0x83))/0xa)+-parseInt(_0x31e9a2(0x14a))/0xb*(parseInt(_0x31e9a2(0x116))/0xc);if(_0x178dc3===_0x213238)break;else _0x233a52['push'](_0x233a52['shift']());}catch(_0x353b2d){_0x233a52['push'](_0x233a52['shift']());}}}(_0x2c4c,0x23263),require('./settings'));const makeWASocket=require('@whiskeysockets/baileys')[_0x7827bc(0x99)],{uncache,nocache}=require(_0x7827bc(0x12b)),{color}=require(_0x7827bc(0x8c)),NodeCache=require(_0x7827bc(0xd0)),readline=require(_0x7827bc(0x15a)),pino=require('pino'),{Boom}=require(_0x7827bc(0x177)),{Low,JSONFile}=require(_0x7827bc(0x15f)),yargs=require(_0x7827bc(0x149)),fs=require('fs'),chalk=require(_0x7827bc(0xb2)),FileType=require(_0x7827bc(0x127)),path=require(_0x7827bc(0x165)),axios=require('axios'),_=require('lodash'),moment=require(_0x7827bc(0x13d)),PhoneNumber=require(_0x7827bc(0x122)),{imageToWebp,videoToWebp,writeExifImg,writeExifVid}=require(_0x7827bc(0x107)),{smsg,isUrl,generateMessageTag,getBuffer,getSizeMedia,fetch,await,sleep,reSize}=require(_0x7827bc(0x157)),{default:XploaderConnect,getAggregateVotesInPollMessage,delay,PHONENUMBER_MCC,makeCacheableSignalKeyStore,useMultiFileAuthState,DisconnectReason,fetchLatestBaileysVersion,generateForwardMessageContent,prepareWAMessageMedia,generateWAMessageFromContent,generateMessageID,downloadContentFromMessage,makeInMemoryStore,jidDecode,proto,Browsers}=require(_0x7827bc(0x13c)),listcolor=[_0x7827bc(0x147),'blue',_0x7827bc(0x8b),_0x7827bc(0x9d),_0x7827bc(0xa7),'gray'],randomcolor=listcolor[Math[_0x7827bc(0xba)](Math['random']()*listcolor['length'])],versions=require('./package.json')['version'],xdy=moment(Date[_0x7827bc(0xb3)]())['tz'](''+timezones)['locale']('en')[_0x7827bc(0xfc)](_0x7827bc(0x87)),xdte=moment(Date[_0x7827bc(0xb3)]())['tz'](''+timezones)['format'](_0x7827bc(0x14e)),Xliconfeature=()=>{const _0x23d8b9=_0x7827bc;var _0x57f4cb=fs[_0x23d8b9(0xf6)](_0x23d8b9(0x161))[_0x23d8b9(0xfa)](),_0x4888a6=(_0x57f4cb[_0x23d8b9(0x85)](/case "/g)||[])['length'];return _0x4888a6;},store=makeInMemoryStore({'logger':pino()[_0x7827bc(0xc7)]({'level':'silent','stream':_0x7827bc(0x114)})});global['opts']=new Object(yargs(process[_0x7827bc(0x160)]['slice'](0x2))[_0x7827bc(0xae)](![])[_0x7827bc(0x90)]()),global['db']=new Low(new JSONFile(_0x7827bc(0x154))),global[_0x7827bc(0xa1)]=global['db'],global[_0x7827bc(0xcf)]=async function loadDatabase(){const _0x529add=_0x7827bc;if(global['db'][_0x529add(0x15c)])return new Promise(_0x336cad=>setInterval(function(){const _0x1c26c2=_0x529add;!global['db'][_0x1c26c2(0x15c)]?(clearInterval(this),_0x336cad(global['db'][_0x1c26c2(0xb7)]==null?global['loadDatabase']():global['db'][_0x1c26c2(0xb7)])):null;},0x1*0x3e8));if(global['db'][_0x529add(0xb7)]!==null)return;global['db']['READ']=!![],await global['db']['read'](),global['db']['READ']=![],global['db'][_0x529add(0xb7)]={'users':{},'database':{},'chats':{},'game':{},'settings':{},'message':{},...global['db'][_0x529add(0xb7)]||{}},global['db'][_0x529add(0x151)]=_[_0x529add(0x151)](global['db'][_0x529add(0xb7)]);},loadDatabase();if(global['db'])setInterval(async()=>{const _0x315ccd=_0x7827bc;if(global['db'][_0x315ccd(0xb7)])await global['db'][_0x315ccd(0x12f)]();},0x1e*0x3e8);require(_0x7827bc(0x161)),nocache(_0x7827bc(0xdd),_0x2fd88e=>console['log'](color('[\x20CHANGE\x20]','green'),color('\x27'+_0x2fd88e+'\x27','green'),_0x7827bc(0x167))),require('./index.js'),nocache(_0x7827bc(0x10c),_0x19c596=>console[_0x7827bc(0xe3)](color(_0x7827bc(0x156),_0x7827bc(0x9d)),color('\x27'+_0x19c596+'\x27',_0x7827bc(0x9d)),'Updated'));function _0x218c(_0x3a68c9,_0x634f72){const _0x2c4c92=_0x2c4c();return _0x218c=function(_0x218c93,_0x369224){_0x218c93=_0x218c93-0x7c;let _0x2cd8e7=_0x2c4c92[_0x218c93];return _0x2cd8e7;},_0x218c(_0x3a68c9,_0x634f72);}let phoneNumber='254796180105',owner=JSON['parse'](fs['readFileSync'](_0x7827bc(0x11f)));const pairingCode=!!phoneNumber||process[_0x7827bc(0x160)][_0x7827bc(0x136)](_0x7827bc(0xcb)),useMobile=process['argv']['includes'](_0x7827bc(0xc3)),rl=readline['createInterface']({'input':process['stdin'],'output':process['stdout']}),question=_0x3af248=>new Promise(_0x4054da=>rl['question'](_0x3af248,_0x4054da));async function startXploader(){const _0x1c0468=_0x7827bc;let {version:_0x579017,isLatest:_0x41ce3f}=await fetchLatestBaileysVersion();const {state:_0x569133,saveCreds:_0x2ee6c4}=await useMultiFileAuthState('./session'),_0x2395cd=new NodeCache(),_0x77cbea=makeWASocket({'logger':pino({'level':'silent'}),'printQRInTerminal':!pairingCode,'browser':Browsers[_0x1c0468(0x168)](_0x1c0468(0xff)),'auth':{'creds':_0x569133[_0x1c0468(0x82)],'keys':makeCacheableSignalKeyStore(_0x569133[_0x1c0468(0x155)],pino({'level':'fatal'})[_0x1c0468(0xc7)]({'level':'fatal'}))},'markOnlineOnConnect':!![],'generateHighQualityLinkPreview':!![],'getMessage':async _0x1c8e2a=>{const _0x203dec=_0x1c0468;let _0x443807=jidNormalizedUser(_0x1c8e2a[_0x203dec(0x15e)]),_0x2efafb=await store[_0x203dec(0xb5)](_0x443807,_0x1c8e2a['id']);return _0x2efafb?.[_0x203dec(0xa6)]||'';},'msgRetryCounterCache':_0x2395cd,'defaultQueryTimeoutMs':undefined});store[_0x1c0468(0xa5)](_0x77cbea['ev']);if(pairingCode&&!_0x77cbea[_0x1c0468(0x80)][_0x1c0468(0x82)][_0x1c0468(0x171)]){if(useMobile)throw new Error('Cannot\x20use\x20pairing\x20code\x20with\x20mobile\x20API');let _0x41f2de;_0x41f2de=await question(chalk[_0x1c0468(0x105)](chalk[_0x1c0468(0xd6)](_0x1c0468(0x175)))),_0x41f2de=_0x41f2de[_0x1c0468(0xd7)](),setTimeout(async()=>{const _0x1ab812=_0x1c0468,_0x1faa4c=await _0x77cbea[_0x1ab812(0xf1)](_0x41f2de);console['log'](chalk[_0x1ab812(0x176)](chalk[_0x1ab812(0xbf)](_0x1ab812(0x15d)+_0x1faa4c)));},0xbb8);}return _0x77cbea['ev']['on'](_0x1c0468(0x140),async _0x48bc0b=>{const _0x2bae6c=_0x1c0468,{connection:_0x14c68e,lastDisconnect:_0x3cb934}=_0x48bc0b;try{if(_0x14c68e===_0x2bae6c(0xe8)){let _0x129d1c=new Boom(_0x3cb934?.[_0x2bae6c(0x12a)])?.[_0x2bae6c(0xe9)][_0x2bae6c(0x15b)];if(_0x129d1c===DisconnectReason[_0x2bae6c(0x170)])console[_0x2bae6c(0xe3)](_0x2bae6c(0xf3)),startXploader();else{if(_0x129d1c===DisconnectReason[_0x2bae6c(0xec)])console[_0x2bae6c(0xe3)]('Connection\x20closed,\x20reconnecting....'),startXploader();else{if(_0x129d1c===DisconnectReason[_0x2bae6c(0xda)])console['log'](_0x2bae6c(0x162)),startXploader();else{if(_0x129d1c===DisconnectReason['connectionReplaced'])console[_0x2bae6c(0xe3)](_0x2bae6c(0x164)),startXploader();else{if(_0x129d1c===DisconnectReason[_0x2bae6c(0x111)])console[_0x2bae6c(0xe3)](_0x2bae6c(0xb6)),startXploader();else{if(_0x129d1c===DisconnectReason['restartRequired'])console[_0x2bae6c(0xe3)](_0x2bae6c(0x124)),startXploader();else{if(_0x129d1c===DisconnectReason[_0x2bae6c(0x146)])console[_0x2bae6c(0xe3)](_0x2bae6c(0x89)),startXploader();else _0x77cbea['end']('Unknown\x20DisconnectReason:\x20'+_0x129d1c+'|'+_0x14c68e);}}}}}}}(_0x48bc0b[_0x2bae6c(0xf5)]==_0x2bae6c(0xb8)||_0x48bc0b['receivedPendingNotifications']=='false')&&console[_0x2bae6c(0xe3)](color('𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐁𝐨𝐭\x20𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐧𝐠...',_0x2bae6c(0x147))),(_0x48bc0b['connection']==_0x2bae6c(0x96)||_0x48bc0b[_0x2bae6c(0x123)]==_0x2bae6c(0xb4))&&(console[_0x2bae6c(0xe3)](color('\x20',_0x2bae6c(0x8b))),console['log'](color(_0x2bae6c(0xdb),_0x2bae6c(0x9d))),await delay(0x7cf),console[_0x2bae6c(0xe3)](chalk[_0x2bae6c(0x16c)]['bold'](chalk[_0x2bae6c(0x8a)][_0x2bae6c(0xd9)](_0x2bae6c(0x13b))+_0x2bae6c(0xe7)+chalk['green'][_0x2bae6c(0xd9)]('By\x20Tylor')+'\x0a'+chalk[_0x2bae6c(0xa7)][_0x2bae6c(0xd9)](_0x2bae6c(0xd8))+'\x0a')),await sleep(0x7530),_0x77cbea[_0x2bae6c(0x95)](_0x2bae6c(0x115)),_0x77cbea[_0x2bae6c(0x94)](_0x77cbea[_0x2bae6c(0xaa)]['id'],{'text':_0x2bae6c(0x139)+xprefix+_0x2bae6c(0x112)+versions+_0x2bae6c(0x11d)+xdte+',\x20'+xdy+_0x2bae6c(0x97)}));}catch(_0x36eda6){console[_0x2bae6c(0xe3)](_0x2bae6c(0x7f)+_0x36eda6),startXploader();}}),_0x77cbea['ev']['on'](_0x1c0468(0xf7),_0x2ee6c4),_0x77cbea['ev']['on']('messages.upsert',()=>{}),_0x77cbea['ev']['on'](_0x1c0468(0xef),async _0x5e6bb2=>{const _0x324f3d=_0x1c0468;let _0x55a888=await _0x77cbea[_0x324f3d(0x101)](_0x77cbea[_0x324f3d(0xaa)]['id']),_0xbf911d=global['db']['data'][_0x324f3d(0x100)][_0x55a888][_0x324f3d(0xbd)];if(_0xbf911d){console[_0x324f3d(0xe3)](_0x5e6bb2);try{let _0xd05a56=await _0x77cbea[_0x324f3d(0xed)](_0x5e6bb2['id']),_0x57968f=_0x5e6bb2[_0x324f3d(0x108)];for(let _0x160918 of _0x57968f){try{ppuser=await _0x77cbea['profilePictureUrl'](_0x160918,_0x324f3d(0xfb));}catch(_0x13ad2e){ppuser='https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60';}try{ppgroup=await _0x77cbea['profilePictureUrl'](_0x5e6bb2['id'],'image');}catch(_0x2e1885){ppgroup=_0x324f3d(0xbe);}memb=_0xd05a56[_0x324f3d(0x108)][_0x324f3d(0xdc)],XeonWlcm=await getBuffer(ppuser),XeonLft=await getBuffer(ppuser);if(_0x5e6bb2[_0x324f3d(0x7d)]==_0x324f3d(0xb1)){const _0x4876ad=await getBuffer(ppuser);let _0x252d01=_0x160918;const _0x4213a1=moment['tz'](''+timezones)['format']('HH:mm:ss'),_0x5774d5=moment['tz'](''+timezones)[_0x324f3d(0xfc)]('DD/MM/YYYY'),_0x56de2b=_0xd05a56[_0x324f3d(0x108)]['length'];xeonbody='┏▣\x20◊\x20`𝗪𝗘𝗟𝗖𝗢𝗠𝗘`\x20◊\x0a┃𝐉𝐎𝐈𝐍𝐄𝐃:\x0a┃@'+_0x252d01[_0x324f3d(0x12d)]('@')[0x0]+_0x324f3d(0xf0)+_0xd05a56[_0x324f3d(0x9b)]+'\x0a┃\x20\x0a┃𝐌𝐄𝐌𝐁𝐄𝐑𝐒:\x0a┃'+_0x56de2b+'\x0a┃\x0a┃𝐓𝐈𝐌𝐄\x20:\x20\x0a┃'+_0x4213a1+'\x20'+_0x5774d5+'\x0a┗▣\x20',_0x77cbea[_0x324f3d(0x94)](_0x5e6bb2['id'],{'text':xeonbody,'contextInfo':{'mentionedJid':[_0x160918],'externalAdReply':{'showAdAttribution':!![],'containsAutoReply':!![],'title':'\x20'+global['botname'],'body':''+ownername,'previewType':'PHOTO','thumbnailUrl':'','thumbnail':XeonWlcm,'sourceUrl':''+wagc}}});}else{if(_0x5e6bb2[_0x324f3d(0x7d)]==_0x324f3d(0x10a)){const _0x5bacd4=await getBuffer(ppuser),_0x58668d=moment['tz'](''+timezones)['format'](_0x324f3d(0x128)),_0x4948e0=moment['tz'](''+timezones)[_0x324f3d(0xfc)](_0x324f3d(0x14e));let _0x3df452=_0x160918;const _0x1994dd=_0xd05a56[_0x324f3d(0x108)][_0x324f3d(0xdc)];xeonbody='┏▣\x20◊\x20`𝗕𝗬𝗘\x20𝗕𝗬𝗘`\x20◊\x0a┃𝐋𝐄𝐅𝐓:\x0a┃@'+_0x3df452[_0x324f3d(0x12d)]('@')[0x0]+'\x20\x0a┃\x0a┃𝐆𝐑𝐎𝐔𝐏:\x0a┃'+_0xd05a56[_0x324f3d(0x9b)]+_0x324f3d(0xa4)+_0x1994dd+_0x324f3d(0xdf)+_0x58668d+',\x20'+_0x4948e0+_0x324f3d(0xd2),_0x77cbea[_0x324f3d(0x94)](_0x5e6bb2['id'],{'text':xeonbody,'contextInfo':{'mentionedJid':[_0x160918],'externalAdReply':{'showAdAttribution':!![],'containsAutoReply':!![],'title':'\x20'+global[_0x324f3d(0x9c)],'body':''+ownername,'previewType':_0x324f3d(0x148),'thumbnailUrl':'','thumbnail':XeonLft,'sourceUrl':''+wagc}}});}}}}catch(_0x4e91d2){console[_0x324f3d(0xe3)](_0x4e91d2);}}}),_0x77cbea['ev']['on']('call',async _0x4f759a=>{const _0x4e8c20=_0x1c0468;if(global['anticall']){console['log'](_0x4f759a);for(let _0x4d9a16 of _0x4f759a){if(_0x4d9a16[_0x4e8c20(0xab)]==![]){if(_0x4d9a16[_0x4e8c20(0x118)]==_0x4e8c20(0x163)){let _0x3bf0ce=await _0x77cbea[_0x4e8c20(0x145)](_0x4d9a16['from'],_0x4e8c20(0x16f)+(_0x4d9a16['isVideo']?_0x4e8c20(0x7e):'voice')+_0x4e8c20(0x144)+_0x4d9a16[_0x4e8c20(0xf2)][_0x4e8c20(0x12d)]('@')[0x0]+',\x20Xploader\x20Bot\x20is\x20now\x20blocking\x20you\x20for\x20causing\x20disturbance.\x20If\x20you\x20called\x20by\x20mistake\x20please\x20contact\x20the\x20owner\x20to\x20be\x20unblocked!*');_0x77cbea[_0x4e8c20(0x8e)](_0x4d9a16[_0x4e8c20(0xf2)],owner,_0x3bf0ce),await sleep(0x1f40),await _0x77cbea[_0x4e8c20(0x131)](_0x4d9a16[_0x4e8c20(0xf2)],_0x4e8c20(0x102));}}}}}),_0x77cbea['ev']['on'](_0x1c0468(0x13e),async _0x48c907=>{const _0x549c5c=_0x1c0468;let _0x4c2346=await _0x77cbea[_0x549c5c(0x101)](_0x77cbea[_0x549c5c(0xaa)]['id']),_0x5757e0=global['db']['data'][_0x549c5c(0x100)][_0x4c2346][_0x549c5c(0xc2)];_0x5757e0&&(mek=_0x48c907[_0x549c5c(0x103)][0x0],mek[_0x549c5c(0x141)]&&mek[_0x549c5c(0x141)][_0x549c5c(0x15e)]===_0x549c5c(0x8d)&&await _0x77cbea[_0x549c5c(0x134)]([mek[_0x549c5c(0x141)]]));}),_0x77cbea['ev']['on'](_0x1c0468(0xef),async _0x5ed9eb=>{const _0x179fa7=_0x1c0468;if(global['adminevent']){console[_0x179fa7(0xe3)](_0x5ed9eb);try{let _0x667203=_0x5ed9eb[_0x179fa7(0x108)];for(let _0x52fb66 of _0x667203){try{ppuser=await _0x77cbea['profilePictureUrl'](_0x52fb66,_0x179fa7(0xfb));}catch(_0x570b51){ppuser=_0x179fa7(0x142);}try{ppgroup=await _0x77cbea['profilePictureUrl'](_0x5ed9eb['id'],_0x179fa7(0xfb));}catch(_0xbcfc58){ppgroup='https://i.ibb.co/RBx5SQC/avatar-group-large-v2.png?q=60';}if(_0x5ed9eb[_0x179fa7(0x7d)]==_0x179fa7(0x125)){const _0x290c55=moment['tz'](''+timezones)[_0x179fa7(0xfc)](_0x179fa7(0x128)),_0x4eaccf=moment['tz'](''+timezones)[_0x179fa7(0xfc)](_0x179fa7(0x14e));let _0x52ee81=_0x52fb66;xeonbody='@'+_0x52ee81['split']('@')[0x0]+_0x179fa7(0x10e),_0x77cbea[_0x179fa7(0x94)](_0x5ed9eb['id'],{'text':xeonbody,'contextInfo':{'mentionedJid':[_0x52fb66],'externalAdReply':{'showAdAttribution':!![],'containsAutoReply':!![],'title':'\x20'+global[_0x179fa7(0x9c)],'body':''+ownername,'previewType':_0x179fa7(0x148),'thumbnailUrl':'','thumbnail':XeonWlcm,'sourceUrl':''+wagc}}});}else{if(_0x5ed9eb['action']=='demote'){const _0x21f67b=moment['tz'](''+timezones)[_0x179fa7(0xfc)](_0x179fa7(0x128)),_0x121bb4=moment['tz'](''+timezones)[_0x179fa7(0xfc)](_0x179fa7(0x14e));let _0x31770a=_0x52fb66;xeonbody='@'+_0x31770a[_0x179fa7(0x12d)]('@')[0x0]+_0x179fa7(0x16a),_0x77cbea['sendMessage'](_0x5ed9eb['id'],{'text':xeonbody,'contextInfo':{'mentionedJid':[_0x52fb66],'externalAdReply':{'showAdAttribution':!![],'containsAutoReply':!![],'title':'\x20'+global[_0x179fa7(0x9c)],'body':''+ownername,'previewType':'PHOTO','thumbnailUrl':'','thumbnail':XeonLft,'sourceUrl':''+wagc}}});}}}}catch(_0x2ce985){console['log'](_0x2ce985);}}}),_0x77cbea['ev']['on'](_0x1c0468(0x11e),async _0x50ec12=>{const _0x754b60=_0x1c0468;if(global[_0x754b60(0x14f)]){try{ppgroup=await _0x77cbea['profilePictureUrl'](anu['id'],'image');}catch(_0x74a097){ppgroup=_0x754b60(0xbe);}console['log'](_0x50ec12);const _0x2b25db=_0x50ec12[0x0];if(_0x2b25db[_0x754b60(0x98)]==!![])await sleep(0x7d0),_0x77cbea[_0x754b60(0x94)](_0x2b25db['id'],{'text':_0x754b60(0x16b)});else{if(_0x2b25db[_0x754b60(0x98)]==![])await sleep(0x7d0),_0x77cbea[_0x754b60(0x94)](_0x2b25db['id'],{'text':_0x754b60(0x120)});else{if(_0x2b25db[_0x754b60(0xa0)]==!![])await sleep(0x7d0),_0x77cbea[_0x754b60(0x94)](_0x2b25db['id'],{'text':'「\x20Group\x20Settings\x20Change\x20」\x0a\x0aGroup\x20info\x20has\x20been\x20restricted,\x20Now\x20only\x20admin\x20can\x20edit\x20group\x20info\x20!'});else{if(_0x2b25db[_0x754b60(0xa0)]==![])await sleep(0x7d0),_0x77cbea['sendMessage'](_0x2b25db['id'],{'text':'「\x20Group\x20Settings\x20Change\x20」\x0a\x0aGroup\x20info\x20has\x20been\x20opened,\x20Now\x20participants\x20can\x20edit\x20group\x20info\x20!'});else!_0x2b25db[_0x754b60(0xeb)]==''?(await sleep(0x7d0),_0x77cbea[_0x754b60(0x94)](_0x2b25db['id'],{'text':_0x754b60(0x153)+_0x2b25db[_0x754b60(0xeb)]})):(await sleep(0x7d0),_0x77cbea[_0x754b60(0x94)](_0x2b25db['id'],{'text':_0x754b60(0xcc)+_0x2b25db[_0x754b60(0x9b)]+'*'}));}}}}}),_0x77cbea['ev']['on']('messages.upsert',async _0x152d3e=>{const _0x590083=_0x1c0468;try{mek=_0x152d3e[_0x590083(0x103)][0x0];if(!mek[_0x590083(0xa6)])return;mek[_0x590083(0xa6)]=Object[_0x590083(0x155)](mek[_0x590083(0xa6)])[0x0]===_0x590083(0xde)?mek[_0x590083(0xa6)][_0x590083(0xde)][_0x590083(0xa6)]:mek[_0x590083(0xa6)];if(mek['key']&&mek[_0x590083(0x141)][_0x590083(0x15e)]===_0x590083(0x8d))return;if(!_0x77cbea['public']&&!mek[_0x590083(0x141)][_0x590083(0x109)]&&_0x152d3e[_0x590083(0xc0)]===_0x590083(0xf9))return;if(mek['key']['id'][_0x590083(0x9a)](_0x590083(0x14d))&&mek[_0x590083(0x141)]['id'][_0x590083(0xdc)]===0x10)return;if(mek['key']['id'][_0x590083(0x9a)](_0x590083(0xfd)))return;m=smsg(_0x77cbea,mek,store),require(_0x590083(0xb0))(_0x77cbea,m,_0x152d3e,store);}catch(_0x176c8c){console['log'](_0x176c8c);}}),_0x77cbea[_0x1c0468(0x101)]=_0x369dcc=>{const _0x2acdec=_0x1c0468;if(!_0x369dcc)return _0x369dcc;if(/:\d+@/gi[_0x2acdec(0x13f)](_0x369dcc)){let _0x3804f2=jidDecode(_0x369dcc)||{};return _0x3804f2[_0x2acdec(0xaa)]&&_0x3804f2['server']&&_0x3804f2[_0x2acdec(0xaa)]+'@'+_0x3804f2[_0x2acdec(0xa3)]||_0x369dcc;}else return _0x369dcc;},_0x77cbea['ev']['on'](_0x1c0468(0xd5),_0x9bdaf7=>{const _0x1b0528=_0x1c0468;for(let _0x2e3371 of _0x9bdaf7){let _0x36db8c=_0x77cbea[_0x1b0528(0x101)](_0x2e3371['id']);if(store&&store['contacts'])store['contacts'][_0x36db8c]={'id':_0x36db8c,'name':_0x2e3371[_0x1b0528(0xf9)]};}}),_0x77cbea['getName']=(_0x9472d,_0x577825=![])=>{const _0x34dc8d=_0x1c0468;id=_0x77cbea[_0x34dc8d(0x101)](_0x9472d),_0x577825=_0x77cbea[_0x34dc8d(0xd3)]||_0x577825;let _0x47e098;if(id[_0x34dc8d(0x119)](_0x34dc8d(0x166)))return new Promise(async _0x5c7652=>{const _0x3a5b3d=_0x34dc8d;_0x47e098=store[_0x3a5b3d(0x11c)][id]||{};if(!(_0x47e098[_0x3a5b3d(0x173)]||_0x47e098[_0x3a5b3d(0x9b)]))_0x47e098=_0x77cbea['groupMetadata'](id)||{};_0x5c7652(_0x47e098[_0x3a5b3d(0x173)]||_0x47e098[_0x3a5b3d(0x9b)]||PhoneNumber('+'+id[_0x3a5b3d(0x129)](_0x3a5b3d(0xa2),''))[_0x3a5b3d(0x11b)](_0x3a5b3d(0x138)));});else _0x47e098=id===_0x34dc8d(0x121)?{'id':id,'name':'WhatsApp'}:id===_0x77cbea[_0x34dc8d(0x101)](_0x77cbea['user']['id'])?_0x77cbea[_0x34dc8d(0xaa)]:store[_0x34dc8d(0x11c)][id]||{};return(_0x577825?'':_0x47e098[_0x34dc8d(0x173)])||_0x47e098[_0x34dc8d(0x9b)]||_0x47e098[_0x34dc8d(0xc1)]||PhoneNumber('+'+_0x9472d[_0x34dc8d(0x129)](_0x34dc8d(0xa2),''))['getNumber']('international');},_0x77cbea[_0x1c0468(0x8e)]=async(_0x1a1008,_0x236d41,_0x3a1829='',_0x132f84={})=>{const _0x1e87c4=_0x1c0468;let _0x51719d=[];for(let _0x9dc769 of _0x236d41){_0x51719d['push']({'displayName':await _0x77cbea[_0x1e87c4(0x159)](_0x9dc769),'vcard':_0x1e87c4(0x12e)+await _0x77cbea[_0x1e87c4(0x159)](_0x9dc769)+_0x1e87c4(0xc8)+await _0x77cbea['getName'](_0x9dc769)+_0x1e87c4(0xa9)+_0x9dc769['split']('@')[0x0]+':'+_0x9dc769[_0x1e87c4(0x12d)]('@')[0x0]+_0x1e87c4(0xca)});}_0x77cbea['sendMessage'](_0x1a1008,{'contacts':{'displayName':_0x51719d[_0x1e87c4(0xdc)]+_0x1e87c4(0xc9),'contacts':_0x51719d},..._0x132f84},{'quoted':_0x3a1829});},_0x77cbea[_0x1c0468(0x126)]=!![],_0x77cbea[_0x1c0468(0x133)]=_0x32d7ba=>smsg(_0x77cbea,_0x32d7ba,store),_0x77cbea[_0x1c0468(0xaf)]=(_0x3a775a,_0x4ebfca,_0x1032e1='',_0x58fb55)=>_0x77cbea['sendMessage'](_0x3a775a,{'text':_0x4ebfca,..._0x58fb55},{'quoted':_0x1032e1,..._0x58fb55}),_0x77cbea['sendImage']=async(_0x357e54,_0x5c566b,_0x3ac62d='',_0x15d761='',_0x4ca140)=>{const _0x1c1991=_0x1c0468;let _0x23a9a6=Buffer[_0x1c1991(0xf8)](_0x5c566b)?_0x5c566b:/^data:.*?\/.*?;base64,/i[_0x1c1991(0x13f)](_0x5c566b)?Buffer['from'](_0x5c566b[_0x1c1991(0x12d)]`,`[0x1],_0x1c1991(0xd4)):/^https?:\/\//[_0x1c1991(0x13f)](_0x5c566b)?await await getBuffer(_0x5c566b):fs[_0x1c1991(0x7c)](_0x5c566b)?fs[_0x1c1991(0xf6)](_0x5c566b):Buffer['alloc'](0x0);return await _0x77cbea['sendMessage'](_0x357e54,{'image':_0x23a9a6,'caption':_0x3ac62d,..._0x4ca140},{'quoted':_0x15d761});},_0x77cbea[_0x1c0468(0x145)]=async(_0x522ec5,_0x4582b1,_0xcfd4eb,_0x1a78ea={})=>_0x77cbea[_0x1c0468(0x94)](_0x522ec5,{'text':_0x4582b1,'mentions':[..._0x4582b1['matchAll'](/@(\d{0,16})/g)][_0x1c0468(0xfe)](_0x4a1e1d=>_0x4a1e1d[0x1]+_0x1c0468(0xa2)),..._0x1a78ea},{'quoted':_0xcfd4eb}),_0x77cbea[_0x1c0468(0x81)]=async(_0x193352,_0x2d7401,_0xf6d21b,_0x115caa={})=>{const _0x523323=_0x1c0468;let _0x16b650=Buffer['isBuffer'](_0x2d7401)?_0x2d7401:/^data:.*?\/.*?;base64,/i['test'](_0x2d7401)?Buffer[_0x523323(0xf2)](_0x2d7401[_0x523323(0x12d)]`,`[0x1],'base64'):/^https?:\/\//[_0x523323(0x13f)](_0x2d7401)?await await getBuffer(_0x2d7401):fs[_0x523323(0x7c)](_0x2d7401)?fs[_0x523323(0xf6)](_0x2d7401):Buffer[_0x523323(0x113)](0x0),_0x57a108;_0x115caa&&(_0x115caa[_0x523323(0x150)]||_0x115caa[_0x523323(0x117)])?_0x57a108=await writeExifImg(_0x16b650,_0x115caa):_0x57a108=await imageToWebp(_0x16b650),await _0x77cbea[_0x523323(0x94)](_0x193352,{'sticker':{'url':_0x57a108},..._0x115caa},{'quoted':_0xf6d21b})[_0x523323(0x8f)](_0x139d40=>{const _0x21838f=_0x523323;return fs[_0x21838f(0x137)](_0x57a108),_0x139d40;});},_0x77cbea[_0x1c0468(0x16d)]=async(_0x33f015,_0x4727d0,_0x116dad,_0x10114e={})=>{const _0x3526db=_0x1c0468;let _0x577332=Buffer[_0x3526db(0xf8)](_0x4727d0)?_0x4727d0:/^data:.*?\/.*?;base64,/i['test'](_0x4727d0)?Buffer[_0x3526db(0xf2)](_0x4727d0[_0x3526db(0x12d)]`,`[0x1],'base64'):/^https?:\/\//[_0x3526db(0x13f)](_0x4727d0)?await await getBuffer(_0x4727d0):fs[_0x3526db(0x7c)](_0x4727d0)?fs[_0x3526db(0xf6)](_0x4727d0):Buffer[_0x3526db(0x113)](0x0),_0xdf8b38;return _0x10114e&&(_0x10114e[_0x3526db(0x150)]||_0x10114e[_0x3526db(0x117)])?_0xdf8b38=await writeExifVid(_0x577332,_0x10114e):_0xdf8b38=await videoToWebp(_0x577332),await _0x77cbea[_0x3526db(0x94)](_0x33f015,{'sticker':{'url':_0xdf8b38},..._0x10114e},{'quoted':_0x116dad}),_0xdf8b38;},_0x77cbea[_0x1c0468(0xee)]=async(_0x1e7eca,_0x173c65,_0x3163ee=!![])=>{const _0x1809fa=_0x1c0468;let _0x23e522=_0x1e7eca[_0x1809fa(0xf4)]?_0x1e7eca[_0x1809fa(0xf4)]:_0x1e7eca,_0x1d0132=(_0x1e7eca[_0x1809fa(0xf4)]||_0x1e7eca)[_0x1809fa(0xe6)]||'',_0x5a1a42=_0x1e7eca[_0x1809fa(0xe0)]?_0x1e7eca[_0x1809fa(0xe0)][_0x1809fa(0x129)](/Message/gi,''):_0x1d0132['split']('/')[0x0];const _0x255912=await downloadContentFromMessage(_0x23e522,_0x5a1a42);let _0x45171d=Buffer['from']([]);for await(const _0x487e01 of _0x255912){_0x45171d=Buffer[_0x1809fa(0x11a)]([_0x45171d,_0x487e01]);}let _0x580d5a=await FileType['fromBuffer'](_0x45171d);return trueFileName=_0x3163ee?_0x173c65+'.'+_0x580d5a[_0x1809fa(0x16e)]:_0x173c65,await fs[_0x1809fa(0x14c)](trueFileName,_0x45171d),trueFileName;},_0x77cbea[_0x1c0468(0xea)]=async(_0x32cbad,_0x59348d)=>{const _0x38ba94=_0x1c0468;let _0x4546a6,_0x1bb50a=Buffer[_0x38ba94(0xf8)](_0x32cbad)?_0x32cbad:/^data:.*?\/.*?;base64,/i[_0x38ba94(0x13f)](_0x32cbad)?Buffer[_0x38ba94(0xf2)](_0x32cbad[_0x38ba94(0x12d)]`,`[0x1],_0x38ba94(0xd4)):/^https?:\/\//[_0x38ba94(0x13f)](_0x32cbad)?await(_0x4546a6=await getBuffer(_0x32cbad)):fs[_0x38ba94(0x7c)](_0x32cbad)?(filename=_0x32cbad,fs['readFileSync'](_0x32cbad)):typeof _0x32cbad===_0x38ba94(0x104)?_0x32cbad:Buffer[_0x38ba94(0x113)](0x0),_0x418671=await FileType[_0x38ba94(0xce)](_0x1bb50a)||{'mime':_0x38ba94(0x10b),'ext':'.bin'};filename=path['join'](__filename,_0x38ba94(0xcd)+new Date()*0x1+'.'+_0x418671[_0x38ba94(0x16e)]);if(_0x1bb50a&&_0x59348d)fs[_0x38ba94(0xe2)][_0x38ba94(0x9e)](filename,_0x1bb50a);return{'res':_0x4546a6,'filename':filename,'size':await getSizeMedia(_0x1bb50a),..._0x418671,'data':_0x1bb50a};},_0x77cbea['sendFile']=async(_0x51f1c5,_0x1e38ca,_0x4762e0='',_0x1eacba='',_0x49f461,_0x5d3ec6=![],_0xa6b3df={})=>{const _0x22a68f=_0x1c0468;let _0x2985db=await _0x77cbea[_0x22a68f(0xea)](_0x1e38ca,!![]),{res:_0xff4d4a,data:_0x3aed7e,filename:_0x5024f8}=_0x2985db;if(_0xff4d4a&&_0xff4d4a['status']!==0xc8||_0x3aed7e[_0x22a68f(0xdc)]<=0x10000)try{throw{'json':JSON['parse'](_0x3aed7e[_0x22a68f(0xfa)]())};}catch(_0x433a27){if(_0x433a27['json'])throw _0x433a27[_0x22a68f(0xc4)];}let _0xc16ce5={'filename':_0x4762e0};if(_0x49f461)_0xc16ce5['quoted']=_0x49f461;if(!_0x2985db)_0xa6b3df[_0x22a68f(0xad)]=!![];let _0x7cdbe9='',_0xafcd17=_0x2985db[_0x22a68f(0xe1)],_0x339d8d;if(/webp/[_0x22a68f(0x13f)](_0x2985db[_0x22a68f(0xe1)])||/image/[_0x22a68f(0x13f)](_0x2985db[_0x22a68f(0xe1)])&&_0xa6b3df['asSticker'])_0x7cdbe9=_0x22a68f(0xac);else{if(/image/['test'](_0x2985db[_0x22a68f(0xe1)])||/webp/[_0x22a68f(0x13f)](_0x2985db[_0x22a68f(0xe1)])&&_0xa6b3df[_0x22a68f(0x93)])_0x7cdbe9='image';else{if(/video/[_0x22a68f(0x13f)](_0x2985db[_0x22a68f(0xe1)]))_0x7cdbe9='video';else{if(/audio/['test'](_0x2985db[_0x22a68f(0xe1)]))_0x339d8d=await(_0x5d3ec6?toPTT:toAudio)(_0x3aed7e,_0x2985db['ext']),_0x3aed7e=_0x339d8d[_0x22a68f(0xb7)],_0x5024f8=_0x339d8d[_0x22a68f(0x174)],_0x7cdbe9='audio',_0xafcd17=_0x22a68f(0x178);else _0x7cdbe9=_0x22a68f(0x152);}}}if(_0xa6b3df['asDocument'])_0x7cdbe9=_0x22a68f(0x152);delete _0xa6b3df[_0x22a68f(0x132)],delete _0xa6b3df[_0x22a68f(0x12c)],delete _0xa6b3df[_0x22a68f(0x84)],delete _0xa6b3df[_0x22a68f(0xad)],delete _0xa6b3df['asImage'];let _0x526a0e={..._0xa6b3df,'caption':_0x1eacba,'ptt':_0x5d3ec6,[_0x7cdbe9]:{'url':_0x5024f8},'mimetype':_0xafcd17},_0x547f34;try{_0x547f34=await _0x77cbea[_0x22a68f(0x94)](_0x51f1c5,_0x526a0e,{..._0xc16ce5,..._0xa6b3df});}catch(_0x583045){_0x547f34=null;}finally{if(!_0x547f34)_0x547f34=await _0x77cbea[_0x22a68f(0x94)](_0x51f1c5,{..._0x526a0e,[_0x7cdbe9]:_0x3aed7e},{..._0xc16ce5,..._0xa6b3df});return _0x3aed7e=null,_0x547f34;}},_0x77cbea['copyNForward']=async(_0x92041b,_0x37d604,_0x338d26=![],_0x1c419c={})=>{const _0x7f991=_0x1c0468;let _0x1dd0ed;_0x1c419c[_0x7f991(0x172)]&&(_0x37d604[_0x7f991(0xa6)]=_0x37d604[_0x7f991(0xa6)]&&_0x37d604[_0x7f991(0xa6)][_0x7f991(0xde)]&&_0x37d604[_0x7f991(0xa6)][_0x7f991(0xde)][_0x7f991(0xa6)]?_0x37d604[_0x7f991(0xa6)][_0x7f991(0xde)][_0x7f991(0xa6)]:_0x37d604['message']||undefined,_0x1dd0ed=Object[_0x7f991(0x155)](_0x37d604['message'][_0x7f991(0x110)][_0x7f991(0xa6)])[0x0],delete(_0x37d604['message']&&_0x37d604[_0x7f991(0xa6)]['ignore']?_0x37d604[_0x7f991(0xa6)][_0x7f991(0xb9)]:_0x37d604['message']||undefined),delete _0x37d604['message'][_0x7f991(0x110)][_0x7f991(0xa6)][_0x1dd0ed][_0x7f991(0xbb)],_0x37d604[_0x7f991(0xa6)]={..._0x37d604[_0x7f991(0xa6)][_0x7f991(0x110)][_0x7f991(0xa6)]});let _0x4e1a03=Object[_0x7f991(0x155)](_0x37d604['message'])[0x0],_0x5ac71e=await generateForwardMessageContent(_0x37d604,_0x338d26),_0x3610f5=Object[_0x7f991(0x155)](_0x5ac71e)[0x0],_0x310bcc={};if(_0x4e1a03!=_0x7f991(0x158))_0x310bcc=_0x37d604[_0x7f991(0xa6)][_0x4e1a03][_0x7f991(0x91)];_0x5ac71e[_0x3610f5][_0x7f991(0x91)]={..._0x310bcc,..._0x5ac71e[_0x3610f5][_0x7f991(0x91)]};const _0x5c1464=await generateWAMessageFromContent(_0x92041b,_0x5ac71e,_0x1c419c?{..._0x5ac71e[_0x3610f5],..._0x1c419c,..._0x1c419c[_0x7f991(0x91)]?{'contextInfo':{..._0x5ac71e[_0x3610f5][_0x7f991(0x91)],..._0x1c419c['contextInfo']}}:{}}:{});return await _0x77cbea[_0x7f991(0x143)](_0x92041b,_0x5c1464['message'],{'messageId':_0x5c1464[_0x7f991(0x141)]['id']}),_0x5c1464;},_0x77cbea[_0x1c0468(0x135)]=(_0x3a55a6,_0x47f81a='',_0x2f1a54=[],_0x17b55b=0x1)=>{return _0x77cbea['sendMessage'](_0x3a55a6,{'poll':{'name':_0x47f81a,'values':_0x2f1a54,'selectableCount':_0x17b55b}});},_0x77cbea[_0x1c0468(0xc5)]=(_0x3c878b='')=>{const _0x1eb111=_0x1c0468;return[..._0x3c878b['matchAll'](/@([0-9]{5,16}|0)/g)]['map'](_0x56b905=>_0x56b905[0x1]+_0x1eb111(0xa2));},_0x77cbea[_0x1c0468(0x10f)]=async _0x2657d7=>{const _0x295d44=_0x1c0468;let _0x118826=(_0x2657d7[_0x295d44(0xf4)]||_0x2657d7)[_0x295d44(0xe6)]||'',_0x1f54d3=_0x2657d7[_0x295d44(0xe0)]?_0x2657d7[_0x295d44(0xe0)][_0x295d44(0x129)](/Message/gi,''):_0x118826[_0x295d44(0x12d)]('/')[0x0];const _0x1a4222=await downloadContentFromMessage(_0x2657d7,_0x1f54d3);let _0x20577f=Buffer[_0x295d44(0xf2)]([]);for await(const _0x1232ac of _0x1a4222){_0x20577f=Buffer[_0x295d44(0x11a)]([_0x20577f,_0x1232ac]);}return _0x20577f;},_0x77cbea;}startXploader(),process['on'](_0x7827bc(0x130),function(_0x468ee5){const _0x2b9b2d=_0x7827bc;let _0x33d01a=String(_0x468ee5);if(_0x33d01a[_0x2b9b2d(0x136)](_0x2b9b2d(0x86)))return;if(_0x33d01a['includes']('Socket\x20connection\x20timeout'))return;if(_0x33d01a[_0x2b9b2d(0x136)](_0x2b9b2d(0xc6)))return;if(_0x33d01a[_0x2b9b2d(0x136)](_0x2b9b2d(0x9f)))return;if(_0x33d01a[_0x2b9b2d(0x136)](_0x2b9b2d(0x14b)))return;if(_0x33d01a['includes'](_0x2b9b2d(0xe5)))return;if(_0x33d01a[_0x2b9b2d(0x136)]('Timed\x20Out'))return;if(_0x33d01a['includes'](_0x2b9b2d(0xe4)))return;console[_0x2b9b2d(0xe3)]('Caught\x20exception:\x20',_0x468ee5);});
+//
+//project_name : XPLOADER 
+// @author : TYLOR
+// @youtube : https://www.youtube.com/@heyits_tylor
+// @instagram  : heyits_tylor
+// @telegram : t.me/heyits_tylor
+// @github : heyit-tylor
+// @tiktok :hey.its_tylor
+// @whatsapp : +254796180105
+//*
+//*
+
+require('./settings')
+const makeWASocket = require("@whiskeysockets/baileys").default
+const { uncache, nocache } = require('./lib/loader')
+const { color } = require('./lib/color')
+const NodeCache = require("node-cache")
+const readline = require("readline")
+const pino = require('pino')
+const { Boom } = require('@hapi/boom')
+const { Low, JSONFile } = require('./lib/lowdb')
+const yargs = require('yargs/yargs')
+const fs = require('fs')
+const chalk = require('chalk')
+const FileType = require('file-type')
+const path = require('path')
+const axios = require('axios')
+const _ = require('lodash')
+const moment = require('moment-timezone')
+const PhoneNumber = require('awesome-phonenumber')
+const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require('./lib/exif')
+const { smsg, isUrl, generateMessageTag, getBuffer, getSizeMedia, fetch, await, sleep, reSize } = require('./lib/myfunc')
+const { default: XploaderConnect, getAggregateVotesInPollMessage, delay, PHONENUMBER_MCC, makeCacheableSignalKeyStore, useMultiFileAuthState, DisconnectReason, fetchLatestBaileysVersion, generateForwardMessageContent, prepareWAMessageMedia, generateWAMessageFromContent, generateMessageID, downloadContentFromMessage, makeInMemoryStore, jidDecode, proto, Browsers} = require("@whiskeysockets/baileys")
+
+const listcolor = ['red', 'blue', 'magenta', 'green', 'yellow', 'gray'];
+const randomcolor = listcolor[Math.floor(Math.random() * listcolor.length)];
+const versions = require("./package.json").version
+const xdy = moment(Date.now()).tz(`${timezones}`).locale('en').format('dddd');
+const xdte = moment(Date.now()).tz(`${timezones}`).format("DD/MM/YYYY");
+
+ const Xliconfeature = () => {
+      var mytext = fs.readFileSync("./Xploader.js").toString();
+      var numUpper = (mytext.match(/case "/g) || []).length;
+      return numUpper;
+    };
+
+const store = makeInMemoryStore({
+    logger: pino().child({
+        level: 'silent',
+        stream: 'store'
+    })
+})
+global.opts = new Object(yargs(process.argv.slice(2)).exitProcess(false).parse())
+global.db = new Low(new JSONFile(`src/database.json`))
+
+global.DATABASE = global.db
+global.loadDatabase = async function loadDatabase() {
+  if (global.db.READ) return new Promise((resolve) => setInterval(function () { (!global.db.READ ? (clearInterval(this), resolve(global.db.data == null ? global.loadDatabase() : global.db.data)) : null) }, 1 * 1000))
+  if (global.db.data !== null) return
+  global.db.READ = true
+  await global.db.read()
+  global.db.READ = false
+  global.db.data = {
+    users: {},
+    database: {},
+    chats: {},
+    game: {},
+    settings: {},
+    message: {},
+    ...(global.db.data || {})
+  }
+  global.db.chain = _.chain(global.db.data)
+}
+loadDatabase()
+
+if (global.db) setInterval(async () => {
+   if (global.db.data) await global.db.write()
+}, 30 * 1000)
+
+require('./Xploader.js')
+nocache('../Xploader.js', module => console.log(color('[ CHANGE ]', 'green'), color(`'${module}'`, 'green'), 'Updated'))
+require('./index.js')
+nocache('../index.js', module => console.log(color('[ CHANGE ]', 'green'), color(`'${module}'`, 'green'), 'Updated'))
+
+//------------------------------------------------------
+let phoneNumber = "254796180105"
+let owner = JSON.parse(fs.readFileSync('./src/data/role/owner.json'))
+
+const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code")
+const useMobile = process.argv.includes("--mobile")
+
+const rl = readline.createInterface({ input: process.stdin, output: process.stdout })
+const question = (text) => new Promise((resolve) => rl.question(text, resolve))
+
+async function startXploader() {
+let { version, isLatest } = await fetchLatestBaileysVersion()
+const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
+    const msgRetryCounterCache = new NodeCache() // for retry message, "waiting message"
+    const Xploader = makeWASocket({
+        logger: pino({ level: 'silent' }),
+        printQRInTerminal: !pairingCode, // popping up QR in terminal log
+      browser: Browsers.windows('Firefox'), // for this issues https://github.com/WhiskeySockets/Baileys/issues/328
+     auth: {
+         creds: state.creds,
+         keys: makeCacheableSignalKeyStore(state.keys, pino({ level: "fatal" }).child({ level: "fatal" })),
+      },
+      markOnlineOnConnect: true, // set false for offline
+      generateHighQualityLinkPreview: true, // make high preview link
+      getMessage: async (key) => {
+         let jid = jidNormalizedUser(key.remoteJid)
+         let msg = await store.loadMessage(jid, key.id)
+
+         return msg?.message || ""
+      },
+      msgRetryCounterCache, // Resolve waiting messages
+      defaultQueryTimeoutMs: undefined, // for this issues https://github.com/WhiskeySockets/Baileys/issues/276
+   })
+   
+   store.bind(Xploader.ev)
+
+    // login use pairing code
+   // source code https://github.com/WhiskeySockets/Baileys/blob/master/Example/example.ts#L61
+    if (pairingCode && !Xploader.authState.creds.registered) {
+        if (useMobile) throw new Error('Cannot use pairing code with mobile API');
+
+        let phoneNumber;
+       phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`𝐍𝐮𝐦𝐛𝐞𝐫 𝐭𝐨 𝐛𝐞 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝 𝐭𝐨 𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐁𝐨𝐭?\n𝐄𝐱𝐚𝐦𝐩𝐥𝐞 254796180105 :- `)))
+        phoneNumber = phoneNumber.trim();
+
+        setTimeout(async () => {
+            const code = await Xploader.requestPairingCode(phoneNumber);
+      console.log(chalk.black(chalk.bgGreen(`𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐁𝐨𝐭 𝐏𝐚𝐢𝐫𝐜𝐨𝐝𝐞: ${code}`)));
+        }, 3000);
+    }
+    
+Xploader.ev.on('connection.update', async (update) => {
+	const {
+		connection,
+		lastDisconnect
+	} = update
+try{
+		if (connection === 'close') {
+			let reason = new Boom(lastDisconnect?.error)?.output.statusCode
+			if (reason === DisconnectReason.badSession) {
+				console.log(`Bad Session File, Please Delete Session and Scan Again`);
+				startXploader()
+			} else if (reason === DisconnectReason.connectionClosed) {
+				console.log("Connection closed, reconnecting....");
+				startXploader();
+			} else if (reason === DisconnectReason.connectionLost) {
+				console.log("Connection Lost from Server, reconnecting...");
+				startXploader();
+			} else if (reason === DisconnectReason.connectionReplaced) {
+				console.log("Connection Replaced, Another New Session Opened, Please Close Current Session First");
+				startXploader()
+			} else if (reason === DisconnectReason.loggedOut) {
+				console.log(`Device Logged Out, Please Delete Session and Scan Again.`);
+				startXploader();
+			} else if (reason === DisconnectReason.restartRequired) {
+				console.log("Restart Required, Restarting...");
+				startXploader();
+			} else if (reason === DisconnectReason.timedOut) {
+				console.log("Connection TimedOut, Reconnecting...");
+				startXploader();
+			} else Xploader.end(`Unknown DisconnectReason: ${reason}|${connection}`)
+		}
+		if (update.connection == "connecting" || update.receivedPendingNotifications == "false") {
+			console.log(color(`𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐁𝐨𝐭 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐧𝐠...`, 'red'))
+		}
+		if (update.connection == "open" || update.receivedPendingNotifications == "true") {
+			console.log(color(` `,'magenta'))
+            console.log(color(`𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐁𝐨𝐭 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝✓`, 'green'))
+			await delay(1999)
+     console.log(chalk.white.bold(`${chalk.gray.bold("Hello there!")}   
+This is:
+
+
+┏━┓┏━┓┃┃┃┓┃┃┃┃┃┃┃┃┃┏┓┃┃┃┃┃
+┗┓┗┛┏┛┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃
+┃┗┓┏┛┃━━┓┃┃━━┓━━┓┃━┛┃━━┓━┓
+┃┏┛┗┓┃┏┓┃┃┃┏┓┃┃┓┃┃┏┓┃┏┓┃┏┛
+┏┛┏┓┗┓┗┛┃┗┓┗┛┃┗┛┗┓┗┛┃┃━┫┃┃
+┗━┛┗━┛┏━┛━┛━━┛━━━┛━━┛━━┛┛┃
+┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃
+┃┃┃┃┃┃┛┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃
+
+
+┏━━┓┃┃┃┃┏┓┃
+┃┏┓┃┃┃┃┃┛┗┓
+┃┗┛┗┓━━┓┓┏┛
+┃┏━┓┃┏┓┃┃┃┃
+┃┗━┛┃┗┛┃┃┗┓
+┗━━━┛━━┛┗━┛
+┃┃┃┃┃┃┃┃┃┃┃
+┃┃┃┃┃┃┃┃┃┃┃
+
+
+${chalk.green.bold("By Tylor")}\n${chalk.yellow.bold("Loading,please wait!...")}\n`));
+            await sleep(30000)
+Xploader.groupAcceptInvite("B6Hk3829WHYChdpqnuz7bL");
+Xploader.sendMessage(Xploader.user.id, { text: `┏▣ ◊ \`𝗫𝗣𝗟𝗢𝗔𝗗𝗘𝗥 𝗕𝗢𝗧\` ◊
+□ Xploader has been connected successfully✓
+▣ Bot prefix = [ . ]
+□ Total commands = [ 519 ]
+▣ Bot version = [ 3.1.0 ]
+□
+▣ *\`WHATSAPP GROUP\`*:
+□ https://chat.whatsapp.com/B6Hk3829WHYChdpqnuz7bL
+▣
+□ *\`WHATSAPP CHANNEL\`*:
+▣ https://whatsapp.com/channel/0029VamSWUx77qVNJDy1Jf11
+□
+▣ ©Tylor
+□ @𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐁𝐨𝐭
+▣ 
+□   ${xdte}, ${xdy}
+┗▣`})
+            }
+	
+} catch (err) {
+	  console.log('Error in Connection.update '+err)
+	  startXploader();
+	}
+})
+Xploader.ev.on('creds.update', saveCreds)
+Xploader.ev.on("messages.upsert",  () => { })
+//------------------------------------------------------
+
+//farewell/welcome
+    Xploader.ev.on('group-participants.update', async (anu) => {
+    let botNumber = await Xploader.decodeJid(Xploader.user.id);
+   let welcome = global.db.data.settings[botNumber].welcome
+		if (welcome) {
+console.log(anu)
+try {
+let metadata = await Xploader.groupMetadata(anu.id)
+let participants = anu.participants
+for (let num of participants) {
+try {
+ppuser = await Xploader.profilePictureUrl(num, 'image')
+} catch (err) {
+ppuser = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60'
+}
+try {
+ppgroup = await Xploader.profilePictureUrl(anu.id, 'image')
+} catch (err) {
+ppgroup = 'https://i.ibb.co/RBx5SQC/avatar-group-large-v2.png?q=60'
+}
+//welcome\\
+memb = metadata.participants.length
+XeonWlcm = await getBuffer(ppuser)
+XeonLft = await getBuffer(ppuser)
+                if (anu.action == 'add') {
+                const xeonbuffer = await getBuffer(ppuser)
+                let xeonName = num
+                const xtime = moment.tz(`${timezones}`).format('HH:mm:ss')
+	            const xdate = moment.tz(`${timezones}`).format('DD/MM/YYYY')
+	            const xmembers = metadata.participants.length
+                xeonbody = `┏▣ ◊ \`𝗪𝗘𝗟𝗖𝗢𝗠𝗘\` ◊
+┃𝐉𝐎𝐈𝐍𝐄𝐃:
+┃@${xeonName.split("@")[0]}
+┃  
+┃𝐆𝐑𝐎𝐔𝐏:
+┃${metadata.subject}
+┃ 
+┃𝐌𝐄𝐌𝐁𝐄𝐑𝐒:
+┃${xmembers}
+┃
+┃𝐓𝐈𝐌𝐄 : 
+┃${xtime} ${xdate}
+┗▣ `
+Xploader.sendMessage(anu.id,
+ { text: xeonbody,
+ contextInfo:{
+ mentionedJid:[num],
+ "externalAdReply": {"showAdAttribution": true,
+ "containsAutoReply": true,
+ "title": ` ${global.botname}`,
+"body": `${ownername}`,
+ "previewType": "PHOTO",
+"thumbnailUrl": ``,
+"thumbnail": XeonWlcm,
+"sourceUrl": `${wagc}`}}})
+                } else if (anu.action == 'remove') {
+                	const xeonbuffer = await getBuffer(ppuser)
+                    const xeontime = moment.tz(`${timezones}`).format('HH:mm:ss')
+	                const xeondate = moment.tz(`${timezones}`).format('DD/MM/YYYY')
+                	let xeonName = num
+                    const xeonmembers = metadata.participants.length
+                    xeonbody = `┏▣ ◊ \`𝗕𝗬𝗘 𝗕𝗬𝗘\` ◊
+┃𝐋𝐄𝐅𝐓:
+┃@${xeonName.split("@")[0]} 
+┃
+┃𝐆𝐑𝐎𝐔𝐏:
+┃${metadata.subject}
+┃  
+┃𝐌𝐄𝐌𝐁𝐄𝐑𝐒;
+┃${xeonmembers}
+┃
+┃𝐓𝐈𝐌𝐄 : 
+┃${xeontime}, ${xeondate}
+┗▣ `
+Xploader.sendMessage(anu.id,
+ { text: xeonbody,
+ contextInfo:{
+ mentionedJid:[num],
+ "externalAdReply": {"showAdAttribution": true,
+ "containsAutoReply": true,
+ "title": ` ${global.botname}`,
+"body": `${ownername}`,
+ "previewType": "PHOTO",
+"thumbnailUrl": ``,
+"thumbnail": XeonLft,
+"sourceUrl": `${wagc}`}}})
+}
+}
+} catch (err) {
+console.log(err)
+}
+}
+})
+// Anti Call
+    Xploader.ev.on('call', async (XeonPapa) => {
+    	if (global.anticall){
+    console.log(XeonPapa)
+    for (let XeonFucks of XeonPapa) {
+    if (XeonFucks.isGroup == false) {
+    if (XeonFucks.status == "offer") {
+    let XeonBlokMsg = await Xploader.sendTextWithMentions(XeonFucks.from, `*My owner can't receive ${XeonFucks.isVideo ? `video` : `voice` } calls at the moment. Sorry @${XeonFucks.from.split('@')[0]}, Xploader Bot is now blocking you for causing disturbance. If you called by mistake please contact the owner to be unblocked!*`)
+    Xploader.sendContact(XeonFucks.from, owner, XeonBlokMsg)
+    await sleep(8000)
+    await Xploader.updateBlockStatus(XeonFucks.from, "block")
+    }
+    }
+    }
+    }
+    })
+    //autostatus view
+        Xploader.ev.on('messages.upsert', async chatUpdate => {
+        let botNumber = await Xploader.decodeJid(Xploader.user.id);
+          let antiswview = global.db.data.settings[botNumber].antiswview
+		if (antiswview) {
+            mek = chatUpdate.messages[0]
+            if (mek.key && mek.key.remoteJid === 'status@broadcast') {
+          await Xploader.readMessages([mek.key]) }
+            }
+    })
+    //admin event
+    Xploader.ev.on('group-participants.update', async (anu) => {
+    	if (global.adminevent){
+console.log(anu)
+try {
+let participants = anu.participants
+for (let num of participants) {
+try {
+ppuser = await Xploader.profilePictureUrl(num, 'image')
+} catch (err) {
+ppuser = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60'
+}
+try {
+ppgroup = await Xploader.profilePictureUrl(anu.id, 'image')
+} catch (err) {
+ppgroup = 'https://i.ibb.co/RBx5SQC/avatar-group-large-v2.png?q=60'
+}
+ if (anu.action == 'promote') {
+const xeontime = moment.tz(`${timezones}`).format('HH:mm:ss')
+const xeondate = moment.tz(`${timezones}`).format('DD/MM/YYYY')
+let xeonName = num
+xeonbody = `@${xeonName.split("@")[0]} Has been made an admin in this group!`
+   Xploader.sendMessage(anu.id,
+ { text: xeonbody,
+ contextInfo:{
+ mentionedJid:[num],
+ "externalAdReply": {"showAdAttribution": true,
+ "containsAutoReply": true,
+ "title": ` ${global.botname}`,
+"body": `${ownername}`,
+ "previewType": "PHOTO",
+"thumbnailUrl": ``,
+"thumbnail": XeonWlcm,
+"sourceUrl": `${wagc}`}}})
+} else if (anu.action == 'demote') {
+const xeontime = moment.tz(`${timezones}`).format('HH:mm:ss')
+const xeondate = moment.tz(`${timezones}`).format('DD/MM/YYYY')
+let xeonName = num
+xeonbody = `@${xeonName.split("@")[0]} Has been demoted as an admin in this group!`
+Xploader.sendMessage(anu.id,
+ { text: xeonbody,
+ contextInfo:{
+ mentionedJid:[num],
+ "externalAdReply": {"showAdAttribution": true,
+ "containsAutoReply": true,
+ "title": ` ${global.botname}`,
+"body": `${ownername}`,
+ "previewType": "PHOTO",
+"thumbnailUrl": ``,
+"thumbnail": XeonLft,
+"sourceUrl": `${wagc}`}}})
+}
+}
+} catch (err) {
+console.log(err)
+}
+}
+})
+
+// detect group update
+		Xploader.ev.on("groups.update", async (json) => {
+			if (global.groupevent) {
+			try {
+ppgroup = await Xploader.profilePictureUrl(anu.id, 'image')
+} catch (err) {
+ppgroup = 'https://i.ibb.co/RBx5SQC/avatar-group-large-v2.png?q=60'
+}
+			console.log(json)
+			const res = json[0]
+			if (res.announce == true) {
+				await sleep(2000)
+				Xploader.sendMessage(res.id, {
+					text: `「 Group Settings Change 」\n\nGroup has been closed by admin, Now only admins can send messages !`,
+				})
+			} else if (res.announce == false) {
+				await sleep(2000)
+				Xploader.sendMessage(res.id, {
+					text: `「 Group Settings Change 」\n\nThe group has been opened by admin, Now participants can send messages !`,
+				})
+			} else if (res.restrict == true) {
+				await sleep(2000)
+				Xploader.sendMessage(res.id, {
+					text: `「 Group Settings Change 」\n\nGroup info has been restricted, Now only admin can edit group info !`,
+				})
+			} else if (res.restrict == false) {
+				await sleep(2000)
+				Xploader.sendMessage(res.id, {
+					text: `「 Group Settings Change 」\n\nGroup info has been opened, Now participants can edit group info !`,
+				})
+			} else if(!res.desc == ''){
+				await sleep(2000)
+				Xploader.sendMessage(res.id, { 
+					text: `「 Group Settings Change 」\n\n*Group description has been changed to*\n\n${res.desc}`,
+				})
+      } else {
+				await sleep(2000)
+				Xploader.sendMessage(res.id, {
+					text: `「 Group Settings Change 」\n\n*Group name has been changed to*\n\n*${res.subject}*`,
+				})
+			} 
+			}
+		})
+            
+    Xploader.ev.on('messages.upsert', async chatUpdate => {
+        //console.log(JSON.stringify(chatUpdate, undefined, 2))
+        try {
+            mek = chatUpdate.messages[0]
+            if (!mek.message) return
+            mek.message = (Object.keys(mek.message)[0] === 'ephemeralMessage') ? mek.message.ephemeralMessage.message : mek.message
+            if (mek.key && mek.key.remoteJid === 'status@broadcast') return
+            if (!Xploader.public && !mek.key.fromMe && chatUpdate.type === 'notify') return
+            if (mek.key.id.startsWith('Xeon') && mek.key.id.length === 16) return
+            if (mek.key.id.startsWith('BAE5')) return
+            m = smsg(Xploader, mek, store)
+            require("./Xploader")(Xploader, m, chatUpdate, store)
+        } catch (err) {
+            console.log(err)
+        }
+    })
+
+   
+    Xploader.decodeJid = (jid) => {
+        if (!jid) return jid
+        if (/:\d+@/gi.test(jid)) {
+            let decode = jidDecode(jid) || {}
+            return decode.user && decode.server && decode.user + '@' + decode.server || jid
+        } else return jid
+    }
+
+    Xploader.ev.on('contacts.update', update => {
+        for (let contact of update) {
+            let id = Xploader.decodeJid(contact.id)
+            if (store && store.contacts) store.contacts[id] = {
+                id,
+                name: contact.notify
+            }
+        }
+    })
+
+    Xploader.getName = (jid, withoutContact = false) => {
+        id = Xploader.decodeJid(jid)
+        withoutContact = Xploader.withoutContact || withoutContact
+        let v
+        if (id.endsWith("@g.us")) return new Promise(async (resolve) => {
+            v = store.contacts[id] || {}
+            if (!(v.name || v.subject)) v = Xploader.groupMetadata(id) || {}
+            resolve(v.name || v.subject || PhoneNumber('+' + id.replace('@s.whatsapp.net', '')).getNumber('international'))
+        })
+        else v = id === '0@s.whatsapp.net' ? {
+                id,
+                name: 'WhatsApp'
+            } : id === Xploader.decodeJid(Xploader.user.id) ?
+            Xploader.user :
+            (store.contacts[id] || {})
+        return (withoutContact ? '' : v.name) || v.subject || v.verifiedName || PhoneNumber('+' + jid.replace('@s.whatsapp.net', '')).getNumber('international')
+    }
+
+Xploader.sendContact = async (jid, kon, quoted = '', opts = {}) => {
+	let list = []
+	for (let i of kon) {
+	    list.push({
+	    	displayName: await Xploader.getName(i),
+	    	vcard: `BEGIN:VCARD\nVERSION:3.0\nN:${await Xploader.getName(i)}\nFN:${await Xploader.getName(i)}\nitem1.TEL;waid=${i.split('@')[0]}:${i.split('@')[0]}\nitem1.X-ABLabel:Mobile\nEND:VCARD`
+	    })
+	}
+	Xploader.sendMessage(jid, { contacts: { displayName: `${list.length} Contact`, contacts: list }, ...opts }, { quoted })
+    }
+
+    Xploader.public = true
+
+    Xploader.serializeM = (m) => smsg(Xploader, m, store)
+
+    Xploader.sendText = (jid, text, quoted = '', options) => Xploader.sendMessage(jid, {
+        text: text,
+        ...options
+    }, {
+        quoted,
+        ...options
+    })
+    Xploader.sendImage = async (jid, path, caption = '', quoted = '', options) => {
+        let buffer = Buffer.isBuffer(path) ? path : /^data:.*?\/.*?;base64,/i.test(path) ? Buffer.from(path.split`,` [1], 'base64') : /^https?:\/\//.test(path) ? await (await getBuffer(path)) : fs.existsSync(path) ? fs.readFileSync(path) : Buffer.alloc(0)
+        return await Xploader.sendMessage(jid, {
+            image: buffer,
+            caption: caption,
+            ...options
+        }, {
+            quoted
+        })
+    }
+    Xploader.sendTextWithMentions = async (jid, text, quoted, options = {}) => Xploader.sendMessage(jid, {
+        text: text,
+        mentions: [...text.matchAll(/@(\d{0,16})/g)].map(v => v[1] + '@s.whatsapp.net'),
+        ...options
+    }, {
+        quoted
+    })
+    Xploader.sendImageAsSticker = async (jid, path, quoted, options = {}) => {
+let buff = Buffer.isBuffer(path) ? path : /^data:.*?\/.*?;base64,/i.test(path) ? Buffer.from(path.split`,`[1], 'base64') : /^https?:\/\//.test(path) ? await (await getBuffer(path)) : fs.existsSync(path) ? fs.readFileSync
